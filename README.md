@@ -1,2 +1,2 @@
 # Taller-Cinemachine-FPS
-:camera: Cinemachine para FPS :shoot:
+:movie_camera: Cinemachine para FPS 
